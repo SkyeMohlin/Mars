@@ -6,4 +6,4 @@ What, even more code?
 
 Change password
 
-Added login ability
+Added log-in ability
